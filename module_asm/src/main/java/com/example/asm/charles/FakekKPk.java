@@ -8,6 +8,8 @@ package com.example.asm.charles;
  *  $ java org.objectweb.asm.util.ASMifier com.example.asm.charles.FakekKPk
  * </pre>
  * 获取字节码生成指令
+ *
+ * @since charles 4.2.7
  */
 public class FakekKPk {
     public static boolean lcJx() {
